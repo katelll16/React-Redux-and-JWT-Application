@@ -1,6 +1,6 @@
 # React Redux and JWT Authentication
 
-This is a simple application demonstrating React Redux state management and JSON Web Token (JWT) authentication.
+This is an application demonstrating React Redux state management and JSON Web Token (JWT) authentication.
 
 ### Features
 - User Login with JWT
